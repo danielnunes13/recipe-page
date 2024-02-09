@@ -1,0 +1,21 @@
+@media (max-width: 414px){
+  .container{
+    background: none;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }  
+  img{
+    height: auto;
+    width: 100%;
+    border-radius: 0;
+
+  }
+
+.timecontainer{
+    background: none;
+}
+
+
+
+}
